@@ -46,7 +46,7 @@ Default=C4 #set value to C4
 </pre>
 
 ###enjoy it 
-<a mailto="zhongwei.lzw@alibaba-inc.com">Mail Me</a>
+<a href="mailto:zhongwei.lzw@alibaba-inc.com">Mail Me</a>
 
 
 
